@@ -10,8 +10,8 @@ Aplicativo para aberturas de chamados desenvolvido durante o Ignite Lab da Rocke
 ## Home Screen
 <div align="center">
 <img src="https://user-images.githubusercontent.com/48101983/179963006-69116e76-a284-4268-9815-d4992930df4a.jpeg" width="200px" />
-</div>
-<div align="center">
+&nbsp &nbsp &nbsp &nbsp
 <img src="https://user-images.githubusercontent.com/48101983/179963022-8f79ac25-d806-45bf-adc3-902f41d8d92b.jpeg" width="200px" />
 </div>
+
 
