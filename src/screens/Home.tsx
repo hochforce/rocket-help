@@ -100,7 +100,7 @@ export function Home() {
           />
           <Filter
             type='closed'
-            title='finalizados'
+            title='finalizadas'
             onPress={() => setStatusSelected('closed')}
             isActive={statusSelected === 'closed'}
           />
